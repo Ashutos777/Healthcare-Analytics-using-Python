@@ -26,5 +26,8 @@
 
 # FINDINGS -
  * Finding Some DRG_Definitions Average_Covered_Charges, Average_Total_Payments, Average_Medicare_Payments and Total_Discharges inside the Below mentioned table.
+ 
+ ![Screenshot (707)](https://user-images.githubusercontent.com/111995863/190873995-f702688e-0a86-4529-aa43-f497b9bf3328.png)
+ 
 
  
