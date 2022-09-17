@@ -15,3 +15,7 @@
              ![download (4)](https://user-images.githubusercontent.com/111995863/190873273-eb0c8911-09f4-42d0-9882-31cdaaf37feb.png)
              
   * In this Project , I have used python Visualization tools like Pandas, Seaborn, Matplotlib and Jupyter notebook IDE to Access the data visually and Programmatically, Clean data for Visualizing data and finding insights later.
+
+
+
+# OUTLINE FOR DATA ANALYSIS -
