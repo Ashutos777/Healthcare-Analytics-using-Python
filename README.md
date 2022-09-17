@@ -29,5 +29,18 @@
  
  ![Screenshot (707)](https://user-images.githubusercontent.com/111995863/190873995-f702688e-0a86-4529-aa43-f497b9bf3328.png)
  
+ * There is positive relationship between Total_Discharges and Average_Covered_Charges, we can see the Average_Covered_Charges increase as Total_Discharges increase.
+
+* Between Average_Total_Payments and Average_Medicare_Payments there is positive relationship we can see Average_Medicare_Payments increases as Average_Total_Payments   increase.
+
+* The DRG_Definition '137 - MOUTH PROCEDURES W CC/MCC' is having Total_Discharges is 11, Average_Covered_Charges is 47353.72727, Average_Total_Payments is 13867.27273   and Average_Medicare_Payments is 11324.90909.
+
+* '853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC' DRG_Definition is having the highest Average_Covered_Charges that is 295493300 and DRG_Definition '053   - SPINAL DISORDERS & INJURIES W/O CC/MCC' is having the lowest Average_Covered_Charges that is 6154.384615.
+
+* '853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC' is also having the highest Average_Medicare_Payments that is 63023810 and '198 - INTERSTITIAL LUNG       DISEASE W/O CC/MCC' contains the lowest Average_Medicare_Payments that is 112.240000.
+
+* The '853 - INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC' Contains the highest Average_Total_Payments that is 69709560 and the lowest Average_Total_Payments   is 5287.071429 that is for '816 - RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC' DRG_Definition.
+
+* '871 - SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC' is having more number of Total_Discharges that is 597736 than other DRG_Definitions present inside the       dataset.
 
  
